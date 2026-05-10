@@ -1,9 +1,10 @@
 Proyecto H&M – Análisis de Ventas con Lakehouse y Power BI
  Descripción del proyecto
 
-    Este proyecto tiene como objetivo analizar datos de ventas del sector retail mediante un enfoque Lakehouse, utilizando Python para la transformación de datos y Power BI para la visualización y análisis de negocio.
-
-    Se trabajó con grandes volúmenes de datos en formato Parquet, los cuales fueron procesados, modelados y utilizados para construir indicadores clave de rendimiento (KPIs), análisis de clientes y dashboards analíticos.
+    Este proyecto tiene como objetivo analizar datos de ventas del sector retail mediante un enfoque Lakehouse, utilizando Python
+    para la transformación de datos y Power BI para la visualización y análisis de negocio.
+    Se trabajó con grandes volúmenes de datos en formato Parquet, los cuales fueron procesados, modelados 
+    y utilizados para construir indicadores clave de rendimiento (KPIs), análisis de clientes y dashboards analíticos.
 
     Tecnologías utilizadas
         Python (Pandas)
@@ -27,7 +28,7 @@ Proyecto H&M – Análisis de Ventas con Lakehouse y Power BI
     ├── data_sample/      # Muestra reducida del dataset
     ├── reportes/         # Imágenes de dashboards
     ├── README.md         # Documentación
-    📦 Data completa y Power BI
+     Data completa y Power BI
 
  Debido al tamaño del dataset y del archivo de Power BI, estos no se incluyen en el repositorio.
 
